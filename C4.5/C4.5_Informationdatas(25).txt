@@ -1,0 +1,37 @@
+Work_accident
+        --haven't_had--
+        average_monthly_hours
+                --below_average--
+                number_project
+                        --below_average--
+                        satisfaction_level
+                                --below_average--
+                                salary
+                                        --low--
+
+                                        --medium--
+
+                                        --high--
+                                        left
+                                --above_average--
+                                remained
+                        --above_average--
+                        remained
+                --above_average--
+                number_project
+                        --below_average--
+                        remained
+                        --above_average--
+                        salary
+                                --low--
+                                satisfaction_level
+                                        --below_average--
+                                        left
+                                        --above_average--
+
+                                --medium--
+                                left
+                                --high--
+                                remained
+        --had--
+        remained

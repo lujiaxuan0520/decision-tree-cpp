@@ -1,0 +1,51 @@
+salary
+        --medium--
+        remained
+        --high--
+        remained
+        --low--
+        satisfaction_level
+                --above_average--
+                average_monthly_hours
+                        --below_average--
+                        number_project
+                                --above_average--
+                                remained
+                                --below_average--
+                                Work_accident
+                                        --haven't_had--
+
+                                        --had--
+                                        remained
+                        --above_average--
+                        Work_accident
+                                --haven't_had--
+                                number_project
+                                        --above_average--
+
+                                        --below_average--
+                                        remained
+                                --had--
+                                number_project
+                                        --above_average--
+
+                                        --below_average--
+                                        remained
+                --below_average--
+                promotion_last_5years
+                        --haven't_had--
+                        Work_accident
+                                --haven't_had--
+                                number_project
+                                        --above_average--
+
+                                        --below_average--
+
+                                --had--
+                                number_project
+                                        --above_average--
+
+                                        --below_average--
+
+                        --had--
+                        left

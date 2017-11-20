@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1509764326 source:d:\document and settings2\administrator\desktop\temporary documents\decision_tree_code\id3\id3.cpp
+	"require.h"
+	"decisionstructure.h"
+	<iostream>
+	<string>
+	<vector>
+
+1509760114 d:\document and settings2\administrator\desktop\temporary documents\decision_tree_code\id3\require.h
+	"decisionstructure.h"
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+	<algorithm>
+	<iostream>
+	<iomanip>
+	<fstream>
+	<stack>
+	<string>
+	<map>
+	<vector>
+
+1510201883 d:\document and settings2\administrator\desktop\temporary documents\decision_tree_code\id3\decisionstructure.h
+	<iostream>
+	<string>
+	<vector>
+
